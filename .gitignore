@@ -1,0 +1,8 @@
+nb-configuration.xml
+nbactions.xml
+pom.xml.versionsBackup
+nbproject/
+.*.bak
+.*.swp
+.DS_Store
+/target/
