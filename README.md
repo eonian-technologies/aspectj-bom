@@ -11,7 +11,7 @@ In your parent POM or project POM, add the BOM to the `dependencyManagement` sec
         <dependency>
             <groupId>com.eoniantech.build</groupId>
             <artifactId>aspectj-bom</artifactId>
-            <version>1.8.10</version>
+            <version>1.9.1</version>
             <type>pom</type>
             <scope>import</scope>
         </dependency>
